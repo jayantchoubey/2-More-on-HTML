@@ -5,3 +5,4 @@ Further stuff on HTML.
   3) 3-tables.html --> basic table in html.
   4) 4-tables2.html --> some more attributes in the above table.
   5) 5-tables3.html --> a complete table with all the tags and attributes learnt above.
+  6) blogpage5.html --> text formatting and semantic tags added to the blogpage.
